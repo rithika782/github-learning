@@ -47,7 +47,7 @@ Membership
 [Dog image][https://mrwallpaper.com/images/high/adorable-pink-cat-illustration-j70ya6dti5xbmdbe.webp]
 
 | Name      | Age   | Qualification |
-|:----------|:-----:| ------------ :|
+|:----------|:-----:| ------------: |
 | Rithika   | 19    | Bsc cs with cgs |
 
 Creating a Drop Down
