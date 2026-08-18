@@ -1,9 +1,16 @@
 
 # Example:club guide
 #### Photography club guide
-### about the club
+### About the club
 <p> The photography club helps members learn photography techniques,share ideas, and organize photo</p>
-
+<hr>
+<b>Membership</b>
+<p-align="center">
+        -open to all members
+        -Attend at least one meeting
+        -Follow the club's code of conduct
+</p>
+</hr>
   
 
       
