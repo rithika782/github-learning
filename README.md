@@ -25,14 +25,13 @@ Membership<br>
 [Dog image][https://mrwallpaper.com/images/high/adorable-pink-cat-illustration-j70ya6dti5xbmdbe.webp]
 <br>
 <b>Table</b>
-        <t>
 Name|Age|Qualification<br>
 Rithika|19|Bsc cs with cgs<br>
 Sharmi|21|Bsc cs<br>
 Keerthi|16|HSC+2<br>
 Hemanth|17|Btech<br>
 Harshini|20|B.com<br>
-</t>
+
 
 
 
