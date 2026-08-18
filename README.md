@@ -26,12 +26,36 @@ Membership<br>
 <br>
 <b>Table</b><br>
 | Name      | Age  | Qualification   |
-| :-------- | :---:| --------------: |
-| Rithika   | 19   | Bsc cs with cgs |
-| Sharmila  | 21   | Bsc cs          |
-| Keerthi   | 16   | HSC+2           |
-| Harish    | 17   | Btech           |
-| Harshini  | 20   | B.com           |
+Photography club guide
+About the club
+The photography club helps members learn photography techniques,share ideas, and organize photo
+
+Membership
+-open to all members
+-Attend at least one meeting
+-Follow the club's code of conduct
+
+-[]
+*Item-1
+*Item-2
+
+1.Item-3
+2.Item-4
+-[ ]Music
+-[ ]Story Reading
+-[ ]Watching Films
+[Dog image][https://mrwallpaper.com/images/high/adorable-pink-cat-illustration-j70ya6dti5xbmdbe.webp]
+
+| Name      | Age   | Qualification |
+|:----------|:-----:| ------------ :|
+| Rithika   | 19    | Bsc cs with cgs |
+
+Creating a Drop Down
+click for hidden contents
+
+[git-hub]("https://github.com")
+[git-hub]("https://github.com" "click Title")
+This is the github class 🙂🫂
 <b>Creating a Drop Down</b>
 <details>
 <summary>
