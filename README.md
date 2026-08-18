@@ -27,11 +27,11 @@ Membership<br>
 <b>Table</b><br>
 | Name | Age | Qualification |<br>
 | ---- | --- | ------------- |<br>
-| Rithika | 19 | Bsc cs with cgs |<br>
-| Sharmila | 21 | Bsc cs |<br>
-| Keerthi | 16 | HSC+2 |<br>
-| Hemanth | 17 | Btech |<br>
-| Harshini | 20 | B.com |<br>
+| Rithika | 19 | Bsc cs with cgs | <br>
+| Sharmila | 21 | Bsc cs | <br>
+| Keerthi | 16 | HSC+2 | <br>
+| Hemanth | 17 | Btech | <br>
+| Harshini | 20 | B.com | <br>
 <b>Creating a Drop Down</b>
 <details>
 <summary>
@@ -45,7 +45,7 @@ Membership<br>
 [git-hub]("https://github.com" "click Title")<br>
 <mark>
 This is the github class
-</mark>
+</mark> 
 🙂🫂
 
 
