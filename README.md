@@ -43,7 +43,7 @@ Harshini|20|B.com<br>
 [git-hub]("https //github.com")<br>
 [git-hub]("https //github.com" "click Title")<br>
 <mark>
-This is the github clas
+This is the github class
 </mark>
 
 
