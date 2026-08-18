@@ -31,6 +31,13 @@ Sharmi|21|Bsc cs<br>
 Keerthi|16|HSC+2<br>
 Hemanth|17|Btech<br>
 Harshini|20|B.com<br>
+<b>Creating a Drop Down</b>
+        <details>
+                <summary>
+                        click for hidden contents
+                </summary>
+                        This is the github class
+        </details>
 
 
 
