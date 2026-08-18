@@ -12,7 +12,7 @@ Membership<br>
         -Follow the club's code of conduct<br>
 <i>
 </p>
-</hr>
+<hr>
 -[]<br>
 *Item-1<br>
 *Item-2<br>
