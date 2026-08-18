@@ -40,8 +40,8 @@ Harshini|20|B.com<br>
                         Sharmila is a 21 years old girl
         </details>
         <br>
-[git-hub]("https://github.com/")<br>
-[git-hub]("https://github.com/" "click Title")<br>
+[git-hub]("https://github.com")<br>
+[git-hub]("https://github.com" "click Title")<br>
 <mark>
 This is the github class
 </mark>
