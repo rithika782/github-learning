@@ -10,7 +10,7 @@
         -open to all members<br>
         -Attend at least one meeting<br>
         -Follow the club's code of conduct<br>
-        <li>
+<i>
 </p>
 </hr>
   
