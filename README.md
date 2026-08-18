@@ -4,7 +4,7 @@
 ### About the club
 <p> The photography club helps members learn photography techniques,share ideas, and organize photo</p>
 <hr>
-###Membership<br>
+Membership<br>
 <p align="center">
 <i>        
         -open to all members<br>
