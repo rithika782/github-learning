@@ -19,9 +19,9 @@ Membership<br>
 <br>
 1.Item-3<br>
 2.Item-4<br>
-[]Music<br>
-[]Story Reading<br>
-[*]Watching Films<br>
+-[ ]Music<br>
+-[ ]Story Reading<br>
+-[ ]Watching Films<br>
 
 
   
