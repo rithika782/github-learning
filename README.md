@@ -24,7 +24,7 @@ Membership<br>
 -[ ]Watching Films<br>
 [Dog image][https://mrwallpaper.com/images/high/adorable-pink-cat-illustration-j70ya6dti5xbmdbe.webp]
 <br>
-<b>Table</b>
+<b>Table</b><br>
 | Name | Age | Qualification |<br>
 | ---- | --- | ------------- |<br>
 | Rithika | 19 | Bsc cs with cgs |<br>
