@@ -6,9 +6,11 @@
 <hr>
 ###Membership<br>
 <p align="center">
+<i>        
         -open to all members<br>
         -Attend at least one meeting<br>
         -Follow the club's code of conduct<br>
+        <li>
 </p>
 </hr>
   
