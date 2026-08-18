@@ -1,4 +1,3 @@
-
 # Example:club guide
 #### Photography club guide
 ### About the club
@@ -29,12 +28,10 @@ Membership<br>
 Photography club guide
 About the club
 The photography club helps members learn photography techniques,share ideas, and organize photo
-
 Membership
 -open to all members
 -Attend at least one meeting
 -Follow the club's code of conduct
-
 -[]
 *Item-1
 *Item-2
@@ -49,13 +46,8 @@ Membership
 | Name      | Age   | Qualification |
 |:----------|:-----:| ------------: |
 | Rithika   | 19    | Bsc cs with cgs |
-
 Creating a Drop Down
 click for hidden contents
-
-[git-hub]("https://github.com")
-[git-hub]("https://github.com" "click Title")
-This is the github class 🙂🫂
 <b>Creating a Drop Down</b>
 <details>
 <summary>
@@ -70,7 +62,7 @@ This is the github class 🙂🫂
 <mark>
 This is the github class
 </mark> 
-🙂🫂
+😃🫂💖✨
 
 
 
