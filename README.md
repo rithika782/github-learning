@@ -41,7 +41,7 @@ Harshini|20|B.com<br>
         </details>
         <br>
 [git-hub]("https://github.com")<br>
-[git-hub]("https://github.com" "click here")<br>
+[git-hub]("https://github.com" "click Title")<br>
 <mark>
 This is the github class
 </mark>
