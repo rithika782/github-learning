@@ -2,8 +2,8 @@
 #### Photography club guide
 ### About the club
 <p> The photography club helps members learn photography techniques,share ideas, and organize photo</p>
-<hr>
-Membership<br>
+
+## Membership
 <p align="center">
 <i>        
         -open to all members<br>
@@ -11,7 +11,6 @@ Membership<br>
         -Follow the club's code of conduct<br>
 <i>
 </p>
-<hr>
 -[]<br>
 *Item-1<br>
 *Item-2<br> 
@@ -35,8 +34,7 @@ click for hidden contents
 <summary>
         click for hidden contents
 </summary>
-
-        Sharmila is a 21 years old girl
+        This content is hidden inside the dropdown 
 </details>
 <br>
 [git-hub]("https://github.com")<br>
