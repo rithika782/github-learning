@@ -27,6 +27,8 @@
 | Name      | Age   | Qualification |
 |:----------|:-----:| ------------: |
 | Rithika   | 19    | Bsc cs with cgs |
+<br>
+
 Creating a Drop Down
 click for hidden contents
 <b>Creating a Drop Down</b>
