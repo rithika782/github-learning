@@ -40,7 +40,7 @@ click for hidden contents
 </details>
 <br>
 [git-hub]("https://github.com")<br>
-[git-hub]("https://github.com" "click Title")<br>
+[git-hub]("https://github.com" "click Title")
 <mark>
 This is the github class
 </mark> 
