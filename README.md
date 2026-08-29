@@ -14,7 +14,7 @@ Membership<br>
 <hr>
 -[]<br>
 *Item-1<br>
-*Item-2<br>
+*Item-2<br> 
 <br>
 1.Item-3<br>
 2.Item-4<br>
@@ -24,24 +24,6 @@ Membership<br>
 [Dog image][https://mrwallpaper.com/images/high/adorable-pink-cat-illustration-j70ya6dti5xbmdbe.webp]
 <br>
 <b>Table</b><br>
-| Name      | Age  | Qualification   |
-Photography club guide
-About the club
-The photography club helps members learn photography techniques,share ideas, and organize photo
-Membership
--open to all members
--Attend at least one meeting
--Follow the club's code of conduct
--[]
-*Item-1
-*Item-2
-
-1.Item-3
-2.Item-4
--[ ]Music
--[ ]Story Reading
--[ ]Watching Films
-[Dog image][https://mrwallpaper.com/images/high/adorable-pink-cat-illustration-j70ya6dti5xbmdbe.webp]
 
 | Name      | Age   | Qualification |
 |:----------|:-----:| ------------: |
